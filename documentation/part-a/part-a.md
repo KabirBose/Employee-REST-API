@@ -1,4 +1,4 @@
-# Rulerise Developer Task
+# Developer Task
 
 by Kabir Bose
 
