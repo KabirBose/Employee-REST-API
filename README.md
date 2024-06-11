@@ -1,2 +1,2 @@
 # Note
-Documentation is in the _documentation_ folder.
+Documentation is in the "documentation" folder.
